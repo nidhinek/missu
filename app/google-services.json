@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "336598079577",
+    "firebase_url": "https://missu-f6432.firebaseio.com",
+    "project_id": "missu-f6432",
+    "storage_bucket": "missu-f6432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336598079577:android:54a9163eece23318",
+        "android_client_info": {
+          "package_name": "com.missu.emotion.missu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336598079577-10t3f90atoe18cd4djvkuesfejsbovik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnDhiPEtDDmsPX8o7lsVBUZqKrHVJEEQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
